@@ -1,0 +1,111 @@
+
+
+
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 55px;
+}
+
+.half-width{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+h3{
+    color: blue;
+}
+
+.name-highlight{
+    color: chartreuse;
+}
+.name-highlight{
+    color: deeppink;
+}
+.footer{
+    color: red;
+}
+.top-banner{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px, 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+a:hover {
+    background-color: yellow;
+  }
+  .bing-down{
+      height: 10in;
+  }
+  .single-My-Plan{
+      box-shadow: 10px 10px 40px greenyellow;
+      border-radius: 5px;
+      height: 50%;
+  }
+  #full-stack{
+      border-left: 5px solid;
+      border-image: linear-gradient(180deg, greenyellow, tomato);
+      border-image-slice: 1;
+
+  }
+  #baby-web{
+      border-left: 5px solid;
+      border-image: linear-gradient(180deg, blue, yellow);
+  }
+  .all-marketplace{
+      background-color: yellow;
+      height: 800px;
+  }
+h1{
+    color: black;
+
+} 
+h2{
+    color: royalblue;
+
+}
+p{
+    color: blue;
+}
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
